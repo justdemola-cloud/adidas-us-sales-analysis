@@ -1,18 +1,32 @@
 # 📊 Adidas US Sales Analysis — Excel Dashboard
 
-## 📌 Project Overview
+## Project Overview
 
-This project is an Excel-based analysis of Adidas US sales performance across 2020 and 2021.
+This project is an **Excel-based analysis of Adidas US sales performance across 2020 and 2021**.
 
 The analysis explores sales revenue, units sold, operating profit, operating margin, product performance, retailer performance, regional performance, sales methods, gender, and monthly sales trends.
 
-The project was developed to transform raw sales data into interactive dashboards that provide clear business insights and support data-driven decision-making.
+The project transforms raw sales data into interactive dashboards that provide business insights and support data-driven decision-making.
+
+---
+
+## 🎯 Business Problem
+
+A large sales dataset can make it difficult to quickly understand which products, retailers, regions, and sales channels are driving business performance.
+
+This project uses Microsoft Excel to analyze Adidas US sales data and identify:
+
+- Sales and profitability trends.
+- High-performing products.
+- Strong-performing retailers.
+- Regional performance differences.
+- Sales-method distribution.
+- Monthly sales patterns.
+- Areas for potential business improvement.
 
 ---
 
 ## 🎯 Project Objectives
-
-The objectives of this analysis were to:
 
 - Analyze overall Adidas sales performance across 2020 and 2021.
 - Identify the highest-performing regions and retailers.
@@ -75,8 +89,6 @@ The dataset contains approximately **9,648 sales records**.
 
 ## 📊 Overall Performance
 
-The analysis produced the following headline figures:
-
 | KPI | Result |
 |---|---:|
 | Total Sales | $899.90M |
@@ -104,7 +116,7 @@ It examines:
 
 ![Adidas US Sales Overview](Screenshot%202026-06-17%20084226.png)
 
-**Key finding:**
+**Key Finding**
 
 Sales increased from **$182.08M in 2020 to $717.82M in 2021**, representing a reported **294.23% increase**.
 
@@ -125,9 +137,9 @@ It analyzes:
 
 ![Retailers and Product Analysis](Screenshot%202026-06-17%20084317.png)
 
-**Key finding:**
+**Key Finding**
 
-West Gear generated **$137.55M** in sales in the West region, making it a major contributor to regional retail performance.
+West Gear generated approximately **$137.55M** in sales in the West region, making it a major contributor to regional retail performance.
 
 ---
 
@@ -147,9 +159,9 @@ It examines:
 
 ![Product and Sales Performance](Screenshot%202026-06-17%20084818.png)
 
-**Key finding:**
+**Key Finding**
 
-Men's Street Footwear was the highest-selling product category, generating approximately **$208.83M** in total sales and **593.32K units sold**.
+Men's Street Footwear generated approximately **$208.83M** in total sales and **593.32K units sold**, making it the highest-selling product category in the analysis.
 
 Women's Apparel was another strong-performing category, generating approximately **$179.04M** in sales.
 
@@ -169,6 +181,7 @@ It includes:
 This view helps identify differences in retailer and regional performance and provides a broader understanding of how sales are distributed across the business.
 
 ![Retailer and Regional Performance](Screenshot%202026-06-17%20084927.png)
+
 ---
 
 ### 5. Insights & Recommendations
@@ -230,7 +243,7 @@ This project addresses questions such as:
 - How much total revenue did Adidas generate?
 - How did sales change between 2020 and 2021?
 - Which region generated the highest sales?
-- Which retailer performed strongly within the regions?
+- Which retailers performed strongly within the regions?
 - Which products generated the most sales?
 - Which products sold the most units?
 - How do sales methods compare?
@@ -242,22 +255,19 @@ This project addresses questions such as:
 
 ## 🎓 Skills Demonstrated
 
-Through this project, I demonstrated practical skills in:
-
 - Microsoft Excel
-- Data cleaning
-- Data preparation
+- Data Cleaning
+- Data Preparation
 - PivotTables
-- Data analysis
-- KPI development
-- Dashboard creation
-- Data visualization
-- Trend analysis
-- Sales analysis
-- Profitability analysis
-- Business reporting
-- Insight generation
-- Business recommendations
+- KPI Development
+- Dashboard Creation
+- Data Visualization
+- Trend Analysis
+- Sales Analysis
+- Profitability Analysis
+- Business Reporting
+- Insight Generation
+- Business Recommendations
 
 ---
 
@@ -274,8 +284,10 @@ This repository contains:
 
 ## 👤 Author
 
-**Adewole Sodiq Ademola**
+**Ademola Adewole**
 
-Data Analyst | Excel | Power BI | SQL | Python
+Data Analyst
 
-Ibadan, Nigeria
+**Skills:** Excel | Power BI | SQL | Power Query | Python
+
+[LinkedIn](https://www.linkedin.com/in/ademola-adewole-5b11733a7) | [GitHub](https://github.com/justdemola-cloud)
